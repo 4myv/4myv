@@ -1,4 +1,4 @@
-<img src="./cover.png" width="100%" alt="cover" />
+<img src="./cover.jpg" width="100%" alt="cover" />
 
 <br />
 
@@ -8,7 +8,7 @@
 Spring Boot로 REST API를 설계·구현하고, AI 코딩 에이전트를 활용한 팀 개발을 경험했습니다.
 
 - 🏫 성일정보고등학교 소프트웨어개발과 재학 중
-- 🌱 Tmax IT 희망학교 NEXT AI 과정 수료 예정 (2026.07 ~ 2026.11)
+- 🌱 Tmax IT 희망학교 NEXT AI 과정 수료 (2026.07 ~ 2026.11)
 - 📬 jjsxx4327@gmail.com
 
 <br />
